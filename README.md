@@ -1,5 +1,5 @@
 # Java-Basics
-Complete Java in just one file (with the help of comments)
+Basics of Java for Second Year
 # How to navigate
 `hello.java is the starting file which contains the basics`.
 <br/>
